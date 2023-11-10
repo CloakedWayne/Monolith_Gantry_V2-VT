@@ -38,7 +38,7 @@
 |6.|D5x25mm M3 standoff or equivalent pin|-|10 pcs|8 pcs|
 |7.|D5x20mm M3 standoff or equivalent pin|-|2 pcs|2 pcs|
 |8.|M5 1mm shim (7mm OD max. for shorter toothed idlers)|20 pcs|12-20 pcs|8-16 pcs|
-|9.|M2 self tapping screw|-|0-2 pcs|0-2 pcs|
+|9.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
 |10.|M3x6 BHCS|-|4-12 pcs|4-12 pcs|
 |11.|M3x10 BHCS|-|0-9 pcs|0-9 pcs|
 |12.|M3x12 SHCS|-|2 pcs|2 pcs|
@@ -71,7 +71,7 @@
 |7.|D5x30mm M3 standoff or equivalent pin|-|10 pcs|8 pcs|
 |8.|D5x25mm M3 standoff or equivalent pin|-|2 pcs|2 pcs|
 |9.|M5 0.5mm shim (7mm OD max. for shorter toothed idlers)|-|12-20 pcs|8-16 pcs|
-|10.|M2 self tapping screw|-|0-2 pcs|0-2 pcs|
+|10.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
 |11.|M3x6 BHCS|-|4-12 pcs|4-12 pcs|
 |12.|M3x10 BHCS|-|0-5 pcs|0-5 pcs|
 |13.|M3x12 BHCS|-|0-8 pcs|0-8 pcs|
@@ -102,7 +102,7 @@
 |6.|D5x25mm M3 standoff or equivalent pin|-|10 pcs|8 pcs|
 |7.|D5x20mm M3 standoff or equivalent pin|-|2 pcs|2 pcs|
 |8.|M5 1mm shim (7mm OD max. for shorter toothed idlers)|20 pcs|12-20 pcs|8-16 pcs|
-|9.|M2 self tapping screw|-|0-2 pcs|0-2 pcs|
+|9.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
 |10.|M3x6 BHCS|-|4-12 pcs|4-12 pcs|
 |11.|M3x10 BHCS|-|4-13 pcs|0-9 pcs|
 |12.|M3x12 SHCS|-|2 pcs|2 pcs|
@@ -132,7 +132,7 @@
 |7.|D5x30mm M3 standoff or equivalent pin|-|10 pcs|8 pcs|
 |8.|D5x25mm M3 standoff or equivalent pin|-|2 pcs|2 pcs|
 |9.|M5 0.5mm shim (7mm OD max. for shorter toothed idlers)|-|12-20 pcs|8-16 pcs|
-|10.|M2 self tapping screw|-|0-2 pcs|0-2 pcs|
+|10.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
 |11.|M3x6 BHCS|-|4-12 pcs|4-12 pcs|
 |12.|M3x10 BHCS|-|4-13 pcs|0-5 pcs|
 |13.|M3x12 BHCS|-|0-8 pcs|0-8 pcs|
