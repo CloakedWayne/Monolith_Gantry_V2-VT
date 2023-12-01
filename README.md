@@ -30,9 +30,32 @@ This is a performance-oriented, configurable gantry system for Voron 2.4 and Tri
 - This needs a Z chain relocation on V2.
 - Trident top rail configs may need a bed relocation to get to the front of the bed (you can just move the PEI sheet for the same effect).
 
+## Printed parts guide
+![7](Images/Y_endstop.png)
+- Recommended print settings: 4 walls, 40% infill (or more), 0.2mm layer height, 0.4mm nozzle
+- Recommended material for 6mm versions: **ABS or better**
+- Recommended material for 9mm versions: **ABS CF or better**
+- **AB** = normal, **CD** = mirrored
+
+### Front rail:
+|Drive|Front mounts (2x)|Rear mounts (2x)|Tensioners (2x)|XY joints (L + R)|
+|---|---|---|---|---|
+|2 stepper|CD|AB|AB|CD|
+|4 stepper|AB|AB|AB|AB|
+
+### Top rail:
+- Right front belt on top: **AB**
+- Left front belt on top: **CD**
+
+|Toolhead|Drive|Front mounts (2x)|Rear mounts (2x)|Tensioners (2x)|XY joints (L + R)|
+|---|---|---|---|---|---|
+|AB|2 stepper|AB|CD|CD|AB|
+|AB|4 stepper|AB|AB|AB|AB|
+|CD|2 stepper|CD|AB|AB|CD|
+|CD|4 stepper|CD|CD|CD|CD|
+
 If you've got any questions you can find me on Discord ***@CloakedWayne***
 
-![7](Images/Y_endstop.png)
 <br/><br/><br/><br/>
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
