@@ -4,9 +4,6 @@
 
 ![6](Images/tensioner.png)
 
-[![ko-fi](Images/kofi_bg_tag_white.png)](https://ko-fi.com/cloakedwayne)
-
-
 ## What's this?
 This is a performance-oriented, configurable gantry system for Voron 2.4 and Trident.
 
@@ -23,15 +20,16 @@ This is a performance-oriented, configurable gantry system for Voron 2.4 and Tri
 - Top rail
 
 ## What's the catch?
-- You have to space out the front (4 stepper only) and rear panels on your printer by at least 5mm or have a 4040 frame.
-- The tensioner range is half compared to stock. I can't recommend this for larger than 350mm builds.
-- There's limited toolhead support currently.
+- You have to space out the front and rear panels on your printer by at least 5mm (Monolith Panels).
+- The tensioner range is half compared to stock.
+- There's limited toolhead support currently (Archetype and the Hevort version of the VZ toolhead).
 - If you want to serialize your printer you have to build it stock first.
-- This needs a Z chain relocation on V2.
+- Z chain relocation on V2.
 - Trident top rail configs may need a bed relocation to get to the front of the bed (you can just move the PEI sheet for the same effect).
 
+## DISCLAIMER: This is a challenging mod and a lot of this stuff needs further testing.
+
 ## Printed parts guide
-![7](Images/Y_endstop.png)
 - Recommended print settings: 4 walls, 40% infill (or more), 0.2mm layer height, 0.4mm nozzle
 - Recommended material for 6mm versions: **ABS or better**
 - Recommended material for 9mm versions: **ABS CF or better**
