@@ -60,7 +60,7 @@
 
 |No.|Description|Stock|9mm 2WD|9mm 4WD|
 |---|---|---|---|---|
-|1.|NEMA17 long shafted stepper (S35/S55/S80)|-|2 pcs|4 pcs|
+|1.|NEMA17 long shafted stepper (S55/S80)|-|2 pcs|4 pcs|
 |2.|9mm GT2 20T drive pulley|-|4 pcs|4 pcs|
 |3.|F695 flanged bearing|20 pcs|16 pcs|16 pcs|
 |4.|695 bearing|-|8 pcs|10 pcs|
@@ -121,7 +121,7 @@
 
 |No.|Description|Stock|9mm 2WD|9mm 4WD|
 |---|---|---|---|---|
-|1.|NEMA17 long shafted stepper (S35/S55/S80)|-|2 pcs|4 pcs|
+|1.|NEMA17 long shafted stepper (S55/S80)|-|2 pcs|4 pcs|
 |2.|9mm GT2 20T drive pulley|-|4 pcs|4 pcs|
 |3.|F695 flanged bearing|20 pcs|16 pcs|16 pcs|
 |4.|695 bearing|-|8 pcs|10 pcs|
