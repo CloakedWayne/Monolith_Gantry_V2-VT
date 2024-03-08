@@ -37,7 +37,6 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - You have to space out the front (4WD only) and rear panels on your printer by at least 5mm ([Monolith Panels](https://github.com/CloakedWayne/Monolith_Panels)) or have a 4040 frame.
 - The tensioner range is less than half compared to stock. Monolith is not recommended for larger than 350mm build volume.
 - There's limited toolhead support currently (Archetype, Xol and the Hevort version of the VZ CNC toolhead).
-- If you want to serialize your printer you have to build it stock first.
 - Z chain relocation/delete on V2.
 - Trident top rail configs may need a bed relocation to get to the front of the bed (you can just move the PEI sheet for the same effect).
 
