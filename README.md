@@ -5,7 +5,7 @@
 ![6](Images/tensioner.png)
 
 ## What's this?
-This is a performance-oriented, configurable gantry platform for Voron 2.4 and Trident. There are 16 (8 + 8) available configurations currently.
+This is a performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
 
 **Available drive configurations:**
 - 2WD
@@ -17,12 +17,11 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 **Available X-axis configurations:**
 - Front rail (flipped belts, toothed side facing the X extrusion)
-- Top rail
+- Top rail (Hevort spacing, this is getting phased out and *will NOT* receive furter updates)
 
 ## Design goals
 - The shortest and the simplest belt path possible without losing full bed capability even with 4WD
 - 4WD without increasing belt length and idler count
-- Front and top X-rail support
 - Double shear support
 - Increased printed part rigidity
 - Uncluttered design
@@ -38,7 +37,6 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - The tensioner range is less than half compared to stock. Monolith is not recommended for larger than 350mm build volume.
 - There's limited toolhead support currently (Archetype, Xol and the Hevort version of the VZ CNC toolhead).
 - Z chain relocation/delete on V2.
-- Trident top rail configs may need a bed relocation to get to the front of the bed (you can just move the PEI sheet for the same effect).
 
 ## DISCLAIMER: This is a challenging mod and a lot of this stuff needs further testing.
 
