@@ -17,7 +17,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 **Available X-axis configurations:**
 - Front rail (flipped belts, toothed side facing the X extrusion)
-- Top rail (Hevort spacing, this is getting phased out and *will NOT* receive furter updates)
+- Top rail (Hevort spacing, this is getting phased out and **will NOT** receive further updates)
 
 ## Design goals
 - The shortest and the simplest belt path possible without losing full bed capability even with 4WD
