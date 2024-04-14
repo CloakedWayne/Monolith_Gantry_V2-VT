@@ -2,10 +2,9 @@
 
 # Monolith Gantry [WIP]
 
-[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
-
-
 ![6](Images/tensioner.png)
+
+[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
 
 ## What's this?
 This is a performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
