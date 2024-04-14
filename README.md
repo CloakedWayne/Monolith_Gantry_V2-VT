@@ -2,6 +2,9 @@
 
 # Monolith Gantry [WIP]
 
+[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+
+
 ![6](Images/tensioner.png)
 
 ## What's this?
@@ -62,8 +65,6 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 |AB|4WD|AB|AB|AB|AB|
 |CD|2WD|CD|AB|AB|CD|
 |CD|4WD|CD|CD|CD|CD|
-
-If you've got any questions you can find me on Discord ***@CloakedWayne***
 
 <br/><br/><br/><br/>
 This work is licensed under a
