@@ -33,8 +33,8 @@
 |3.|F695 flanged bearing|20 pcs|16-18 pcs|12-16 pcs|
 |4.|6mm GT2 20T idler (16mm OD max.)|0-2 pcs|4 pcs|4 pcs|
 |5.|6mm GATES GT2 belt|stock length|shorter than stock|shorter than 2WD|
-|6.|D5x25mm M3 standoff or equivalent pin|-|10 pcs|8 pcs|
-|7.|D5x20mm M3 standoff or equivalent pin|-|2 pcs|2 pcs|
+|6.|D5x25mm pin|-|10 pcs|8 pcs|
+|7.|D5x20mm pin|-|2 pcs|2 pcs|
 |8.|M5 1mm shim (7mm OD max. for shorter toothed idlers)|20 pcs|12-20 pcs|8-16 pcs|
 |9.|M5 0.5mm shim (7mm OD max. for shorter toothed idlers)|-|12-20 pcs|8-16 pcs|
 |10.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
@@ -67,8 +67,8 @@
 |4.|695 bearing|-|8 pcs|10 pcs|
 |5.|9mm GT2 20T idler (16mm OD max.)|-|4 pcs|4 pcs|
 |6.|9mm GATES GT2 belt|-|shorter than stock|shorter than 2WD|
-|7.|D5x35mm M3 standoff or equivalent pin|-|10 pcs|8 pcs|
-|8.|D5x25mm M3 standoff or equivalent pin|-|2 pcs|2 pcs|
+|7.|D5x35mm pin|-|10 pcs|8 pcs|
+|8.|D5x25mm pin|-|2 pcs|2 pcs|
 |9.|M5 0.5mm shim (7mm OD max. for shorter toothed idlers)|-|12-20 pcs|8-16 pcs|
 |10.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
 |11.|M3x6 BHCS|-|4-12 pcs|4-12 pcs|
@@ -98,8 +98,8 @@
 |3.|F695 flanged bearing|20 pcs|16-18 pcs|12-16 pcs|
 |4.|6mm GT2 20T idler (16mm OD max.)|0-2 pcs|4 pcs|4 pcs|
 |5.|6mm GATES GT2 belt|stock length|shorter than stock|shorter than 2WD|
-|6.|D5x25mm M3 standoff or equivalent pin|-|10 pcs|8 pcs|
-|7.|D5x20mm M3 standoff or equivalent pin|-|2 pcs|2 pcs|
+|6.|D5x25mm pin|-|10 pcs|8 pcs|
+|7.|D5x20mm pin|-|2 pcs|2 pcs|
 |8.|M5 1mm shim (7mm OD max. for shorter toothed idlers)|20 pcs|12-20 pcs|8-16 pcs|
 |9.|M5 0.5mm shim (7mm OD max. for shorter toothed idlers)|-|12-20 pcs|8-16 pcs|
 |10.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
@@ -116,8 +116,7 @@
 |21.|M3 hammerhead T-nut|-|0-4 pcs|0-4 pcs|
 |22.|M5x10 BHCS|18 pcs|16-22 pcs|16-22 pcs|
 |23.|M5x12 BHCS|-|4 pcs|4 pcs|
-|24.|M5x40 SHCS|10 pcs|8 pcs|8 pcs|
-|25.|M5 roll in T-nut|30 pcs|28-34 pcs|28-34 pcs|
+|24.|M5 roll in T-nut|30 pcs|28-34 pcs|28-34 pcs|
 
 ## VT 9mm
 
@@ -129,8 +128,8 @@
 |4.|695 bearing|-|8 pcs|10 pcs|
 |5.|9mm GT2 20T idler (16mm OD max.)|-|4 pcs|4 pcs|
 |6.|9mm GATES GT2 belt|-|shorter than stock|shorter than 2WD|
-|7.|D5x35mm M3 standoff or equivalent pin|-|10 pcs|8 pcs|
-|8.|D5x25mm M3 standoff or equivalent pin|-|2 pcs|2 pcs|
+|7.|D5x35mm pin|-|10 pcs|8 pcs|
+|8.|D5x25mm pin|-|2 pcs|2 pcs|
 |9.|M5 0.5mm shim (7mm OD max. for shorter toothed idlers)|-|12-20 pcs|8-16 pcs|
 |10.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
 |11.|M3x6 BHCS|-|4-12 pcs|4-12 pcs|
@@ -145,6 +144,5 @@
 |20.|M3 roll in T-nut|-|6-11 pcs|2-7 pcs|
 |21.|M3 hammerhead T-nut|-|0-4 pcs|0-4 pcs|
 |22.|M5x12 BHCS|-|20-26 pcs|20-26 pcs|
-|23.|M5x40 SHCS|10 pcs|8 pcs|8 pcs|
-|24.|M5 roll in T-nut|30 pcs|28-34 pcs|28-34 pcs|
-|25.|M5 washer (10mm OD max.)|-|4 pcs|4 pcs|
+|23.|M5 roll in T-nut|30 pcs|28-34 pcs|28-34 pcs|
+|24.|M5 washer (10mm OD max.)|-|4 pcs|4 pcs|
