@@ -67,7 +67,7 @@
 |4.|695 bearing|-|8 pcs|10 pcs|
 |5.|9mm GT2 20T idler (16mm OD max.)|-|4 pcs|4 pcs|
 |6.|9mm GATES GT2 belt|-|shorter than stock|shorter than 2WD|
-|7.|D5x35mm pin|-|10 pcs|8 pcs|
+|7.|D5x36mm pin|-|10 pcs|8 pcs|
 |8.|D5x25mm pin|-|2 pcs|2 pcs|
 |9.|M5 0.5mm shim (7mm OD max. for shorter toothed idlers)|-|12-20 pcs|8-16 pcs|
 |10.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
@@ -128,7 +128,7 @@
 |4.|695 bearing|-|8 pcs|10 pcs|
 |5.|9mm GT2 20T idler (16mm OD max.)|-|4 pcs|4 pcs|
 |6.|9mm GATES GT2 belt|-|shorter than stock|shorter than 2WD|
-|7.|D5x35mm pin|-|10 pcs|8 pcs|
+|7.|D5x36mm pin|-|10 pcs|8 pcs|
 |8.|D5x25mm pin|-|2 pcs|2 pcs|
 |9.|M5 0.5mm shim (7mm OD max. for shorter toothed idlers)|-|12-20 pcs|8-16 pcs|
 |10.|M2x10 self tapping screw|-|0-2 pcs|0-2 pcs|
