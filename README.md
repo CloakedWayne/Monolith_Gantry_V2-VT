@@ -23,7 +23,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 ![2](Images/Monolith.png)
 
 ## Design goals
-- The shortest and the simplest belt path possible without losing full bed capability even with 4WD
+- The shortest and the simplest belt path possible without losing full bed capability even with 4WD (toolhead dependant)
 - 4WD without increasing belt length and idler count
 - Double shear support
 - Increased printed part rigidity
