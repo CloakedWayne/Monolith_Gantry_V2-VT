@@ -2,7 +2,7 @@
 
 # Monolith Gantry [WIP]
 
-![6](Images/tensioner.png)
+![1](Images/tensioner.png)
 
 [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
 
@@ -19,7 +19,8 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 **Available X-axis configurations:**
 - Front rail (flipped belts, toothed side facing the X extrusion)
-- Top rail (Hevort spacing, this is getting phased out and **will NOT** receive further updates)
+
+![2](Images/Monolith.png)
 
 ## Design goals
 - The shortest and the simplest belt path possible without losing full bed capability even with 4WD
@@ -37,7 +38,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 ## What's the catch?
 - You have to space out the front (4WD only) and rear panels on your printer by at least 5mm ([Monolith Panels](https://github.com/CloakedWayne/Monolith_Panels)) or have a 4040 frame.
 - The tensioner range is less than half compared to stock. Monolith is not recommended for larger than 350mm build volume.
-- There's limited toolhead support currently (Archetype, Xol and the Hevort version of the VZ CNC toolhead).
+- There's limited toolhead support currently (Voron compatible toolheads that have loop around belt clips will work).
 - Z chain relocation/delete on V2.
 
 ## DISCLAIMER: This is a challenging mod and a lot of this stuff needs further testing.
