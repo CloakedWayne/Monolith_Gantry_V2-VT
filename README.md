@@ -2,7 +2,7 @@
 
 # Monolith Gantry [WIP]
 
-![1](Images/tensioner.png)
+![1](Images/V2_9mm_front_rail.png)
 
 [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
 
