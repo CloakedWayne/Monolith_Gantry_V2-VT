@@ -3,8 +3,8 @@ Top rail requires mirrored parts in some cases.
 **AB** = normal, **CD** = mirrored
 
 ### Top rail:
-- Right front belt on top: **AB**
-- Left front belt on top: **CD**
+- Toolhead with the right front belt on top: **AB**
+- Toolhead with the left front belt on top: **CD**
 
 |Toolhead|Drive|Front mounts (2x)|Rear mounts (2x)|Tensioners (2x)|XY joints (L + R)|
 |---|---|---|---|---|---|
