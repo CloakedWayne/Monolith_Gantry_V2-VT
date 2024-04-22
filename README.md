@@ -47,24 +47,6 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Recommended print settings: 4 walls, 40% infill (or more), 0.2mm layer height, 0.4mm nozzle
 - Recommended material for 6mm versions: **ABS or better**
 - Recommended material for 9mm versions: **ABS CF or better**
-- **AB** = normal, **CD** = mirrored
-
-### Front rail:
-|Drive|Front mounts (2x)|Rear mounts (2x)|Tensioners (2x)|XY joints (L + R)|
-|---|---|---|---|---|
-|2WD|CD|AB|AB|CD|
-|4WD|AB|AB|AB|AB|
-
-### Top rail:
-- Right front belt on top: **AB**
-- Left front belt on top: **CD**
-
-|Toolhead|Drive|Front mounts (2x)|Rear mounts (2x)|Tensioners (2x)|XY joints (L + R)|
-|---|---|---|---|---|---|
-|AB|2WD|AB|CD|CD|AB|
-|AB|4WD|AB|AB|AB|AB|
-|CD|2WD|CD|AB|AB|CD|
-|CD|4WD|CD|CD|CD|CD|
 
 <br/><br/><br/><br/>
 This work is licensed under a
