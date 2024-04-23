@@ -14,5 +14,5 @@ It will require mirrored parts in some cases.
 |---|---|---|---|---|---|---|
 |AB|2WD|CD|CD|CD|AB|AB|
 |AB|4WD|AB|AB|AB|AB|AB|
-|CD|2WD|AB|AB|AB|CD|AB|
-|CD|4WD|CD|CD|CD|CD|AB|
+|CD|2WD|AB|AB|AB|CD|CD|
+|CD|4WD|CD|CD|CD|CD|CD|
