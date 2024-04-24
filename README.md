@@ -1,7 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Monolith Gantry [WIP]
-
+# Monolith Gantry
 ![1](Images/V2_9mm_front_rail.png)
 
 [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
@@ -23,7 +22,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 ![2](Images/Monolith.png)
 
 ## 2024 Roadmap (ETA 2024)
-### Improvements for R1:
+### Planned improvements for R1:
 - toothed idler delete on all versions (drive pulleys with live shafts last longer and they're easier to source with 16mm OD)
 - significant effective tensioner range increase (50% or more)
 - optional zero protrusion mode (no extra panel spacing) without changing the gantry parts
@@ -62,7 +61,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Z chain relocation/delete on V2
 - Trident rear vertical extrusion brackets have to be rotated by 180 degrees
 
-## DISCLAIMER: This is a challenging mod and a lot of this stuff needs further testing.
+## DISCLAIMER: This is a challenging mod without a step by step build guide or documentation.
 
 ## Printed parts guide
 - Recommended print settings: 4 walls, 40% infill (or more), 0.2mm layer height, 0.4mm nozzle
