@@ -1,32 +1,16 @@
 # BOM
-## DISCLAIMER: This is a challenging mod. The BOM will change with more testing and feedback. The number of fasteners can vary based on the configuration.
-
-**These affect BOM numbers:**
-
-- front rail or top rail
-- 2020 extrusion or lightweight X-beam
-- pin configuration
-- support bearing configuration
-- toothed idler height
-- sensorless homing or end stops
-
-### Recomended toolheads:
-- **Front rail:** **Archetype** (Breakneck, Mjölnir, Atrocity)
-- **Top rail:** the **Hevort version** of the VZ CNC toolhead or a printed equivalent (the normal VZ belt spacing is less compact in Y and only supports 6mm belts)
 ### Rails:
 - **Y rails:** stock length MGN9H (no preload is recommended)
 - **X rail:**  stock length MGN9H/MGN12H (Z2 preload is recommended)
 ### X axis:
-- **Front rail:** any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
-- **Top rail:** any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
+Any stock-compatible X beam will work with the suitable mounting hardware
 ### Extrusions:
-- all of the extrusions are stock
-- there's an optional 2020 front brace that has the same length as the X rail (untested)
-
+- all of the gantry extrusions are stock
+- there's an optional 2020 front brace for AWD that has the same length as the X rail
 
 ## V2 6mm
 
-|No.|Description|Stock|6mm 2WD|6mm 4WD|
+|No.|Description|Stock|6mm 2WD|6mm AWD|
 |---|---|---|---|---|
 |1.|NEMA17 stepper (S35/S55/S80 long shaft is recommended)|0-2 pcs|2 pcs|4 pcs|
 |2.|6mm GT2 20T drive pulley|2 pcs|4 pcs|4 pcs|
@@ -59,7 +43,7 @@
 
 ***I don't recommend 9mm AWD for the V2, unless it's a DOOM.***
 
-|No.|Description|Stock|9mm 2WD|9mm 4WD|
+|No.|Description|Stock|9mm 2WD|9mm AWD|
 |---|---|---|---|---|
 |1.|NEMA17 long shafted stepper (S55/S80)|-|2 pcs|4 pcs|
 |2.|9mm GT2 20T drive pulley|-|4 pcs|4 pcs|
@@ -91,7 +75,7 @@
 
 ## VT 6mm
 
-|No.|Description|Stock|6mm 2WD|6mm 4WD|
+|No.|Description|Stock|6mm 2WD|6mm AWD|
 |---|---|---|---|---|
 |1.|NEMA17 stepper (S35/S55/S80 long shaft is recommended)|0-2 pcs|2 pcs|4 pcs|
 |2.|6mm GT2 20T drive pulley|2 pcs|4 pcs|4 pcs|
@@ -120,7 +104,7 @@
 
 ## VT 9mm
 
-|No.|Description|Stock|9mm 2WD|9mm 4WD|
+|No.|Description|Stock|9mm 2WD|9mm AWD|
 |---|---|---|---|---|
 |1.|NEMA17 long shafted stepper (S55/S80)|-|2 pcs|4 pcs|
 |2.|9mm GT2 20T drive pulley|-|4 pcs|4 pcs|
