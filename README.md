@@ -22,6 +22,27 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 ![2](Images/Monolith.png)
 
+## 2024 Roadmap (ETA 2024)
+### Improvements for R1:
+- toothed idler delete on all versions (drive pulleys with live shafts last longer and they're easier to source with 16mm OD)
+- significant effective tensioner range increase (50% or more)
+- optional zero protrusion mode (no extra panel spacing) without changing the gantry parts
+
+### Laser-cut versions:
+- public CAD/DXFs
+- no printed load bearing parts
+- cost effective, but requires post processsing, so it's a pretty labor-intensive build
+- more complicated BOM compared to the printed
+
+### Milled versions:
+- kits
+- no printed load bearing parts
+- contains everything except the motors
+- 6mm to 9mm switch will only require an upgrade kit
+- accent colors
+- easier to build
+- US/EU availability
+  
 ## Design goals
 - The shortest and the simplest belt path possible without losing full bed capability even with 4WD (toolhead dependant)
 - 4WD without increasing belt length and idler count
@@ -50,7 +71,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Recommended material for 9mm versions: **ABS CF or better**
 
 ## Changelog
-### April 2024 (QOL update)
+### April 2024 (minor QOL update)
 - less confusing showroom style CAD to aid assembly and help with integration
 - top rail versions are now phased out, removed the mirrored CD parts (simplified BOM)
 - double shear bearing support is now possible with flipped, short shafted motors on 6mm versions, 6mm tensioner body reprint is needed to gain clearance (One exception is the front left Trident AWD motor, because of the leadscrew. But this still means that all 6mm users won't have to replace their existing 2WD motors to get double shear support on AWD)
