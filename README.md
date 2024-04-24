@@ -11,7 +11,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 **Available drive configurations:**
 - 2WD
-- 4WD
+- AWD
 
 **Available belt widths:**
 - 6mm
@@ -28,20 +28,19 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - significant effective tensioner range increase (50% or more)
 - optional zero protrusion mode (no extra panel spacing) without changing the gantry parts
 
-### Laser-cut versions:
+### Laser-cut version:
 - public CAD/DXFs
 - no printed load bearing parts
 - cost effective, but requires post processsing, so it's a pretty labor-intensive build
 - more complicated BOM compared to the printed
 
-### Milled versions:
-- kits
+### Milled version:
+- kits with US and EU availability
 - no printed load bearing parts
 - contains everything except the motors
 - 6mm to 9mm switch will only require an upgrade kit
 - accent colors
 - easier to build
-- US/EU availability
   
 ## Design goals
 - The shortest and the simplest belt path possible without losing full bed capability even with 4WD (toolhead dependant)
