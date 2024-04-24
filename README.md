@@ -21,7 +21,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 ![2](Images/Monolith.png)
 
-## 2024 Roadmap (ETA 2024)
+## 2024 Roadmap
 ### Planned improvements for R1:
 - toothed idler delete on all versions (drive pulleys with live shafts last longer and they're easier to source with 16mm OD)
 - significant effective tensioner range increase (50% or more)
