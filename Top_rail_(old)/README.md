@@ -1,6 +1,7 @@
-## Top X rail support with belt spacing for the CNC Vz-Hevort toolhead (6 or 9mm belts, MGN9H or MGN9C)
+## Top X rail support with belt spacing for the CNC Vz-Hevort toolhead
+### (6 or 9mm belts, MGN9H or MGN9C)
 
-Due to low interest, the top rail version of Monolith won't receive further updates.
+Due to low interest, this version of Monolith won't receive further updates.
 
 ## Printed parts guide for top X rail
 
