@@ -15,7 +15,7 @@ Any stock-compatible X beam will work with the suitable mounting hardware
 
 ## Y endstop
 
-Optional
+- optional
 
 |No.|Description|Qty|
 |---|---|---|
