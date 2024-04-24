@@ -43,8 +43,8 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - easier to build
   
 ## Design goals
-- The shortest and the simplest belt path possible without losing full bed capability even with 4WD (toolhead dependant)
-- 4WD without increasing belt length and idler count
+- The shortest and the simplest belt path possible without losing full bed capability even with AWD (toolhead dependant)
+- AWD without increasing belt length and idler count
 - Double shear support
 - Increased printed part rigidity
 - Uncluttered design
@@ -53,10 +53,10 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 ## Performance expectations
 **2WD:** Due to the 10-15cm shorter belt path, stiffer and lighter XY joints (inside Y rails) your printer should perform similarly to a 50mm smaller one equipped with the same toolhead and X axis setup.
 
-**4WD:** It doesn't come at the cost of adding 20cm extra belt length and more idlers, so input shaper scaling should be close to +100% vs 2WD due to the truly halved effective belt length. IF there are no rigidity bottlekecks elsewhere, which is rarely the case.
+**AWD:** It doesn't come at the cost of adding 20cm extra belt length and more idlers, so input shaper scaling should be close to +100% vs 2WD due to the truly halved effective belt length. IF there are no rigidity bottlekecks elsewhere, which is rarely the case.
 
 ## What's the catch?
-- You have to space out the front (4WD only) and rear panels on your printer by at least 5mm ([Monolith Panels](https://github.com/CloakedWayne/Monolith_Panels)) or have a 4040 frame.
+- You have to space out the front (AWD only) and rear panels on your printer by at least 5mm ([Monolith Panels](https://github.com/CloakedWayne/Monolith_Panels)) or have a 4040 frame.
 - The tensioner range is less than half compared to stock. Monolith is not recommended for larger than 350mm build volume.
 - There's limited toolhead support currently (Voron compatible toolheads that have loop around belt clips will work).
 - Z chain relocation/delete on V2
