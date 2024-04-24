@@ -52,7 +52,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 ## Changelog
 ### April 2024 (QOL update)
 - less confusing showroom style CAD to aid assembly and help with integration
-- top rail versions are now phased out, removed the mirrored CD parts
+- top rail versions are now phased out, removed the mirrored CD parts (simplified BOM)
 - double shear bearing support is now possible with flipped, short shafted motors on 6mm versions, 6mm tensioner body reprint is needed to gain clearance (One exception is the front left Trident AWD motor, because of the leadscrew. But this still means that all 6mm users won't have to replace their existing 2WD motors to get double shear support on AWD)
 - bearing holders have a tighter press fit, combined the flipped and normal text versions
 - XY joints now have the double screw side on top by default for better X endstop support, but they still can be flipped to gain clearance for low extruder motors
