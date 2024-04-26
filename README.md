@@ -23,6 +23,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 ## 2024 Roadmap
 ### Planned improvements for R1:
+- laser-cut, printed, and milled versions
 - toothed idler delete on all versions (drive pulleys with live shafts last longer and they're easier to source with 16mm OD)
 - significant effective tensioner range increase (50% or more)
 - optional zero protrusion mode (no extra panel spacing) without changing the gantry parts
