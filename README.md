@@ -3,6 +3,8 @@
 # Monolith Gantry
 ![1](Images/V2_9mm_front_rail.png)
 
+*If you have questions or wanna stay more up to date with Monolith, consider joining the dedicated Discord server.*
+
 [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
 
 ## What's this?
@@ -17,7 +19,7 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - 9mm
 
 **Available X-axis configurations:**
-- Front rail (flipped belts, toothed side facing the X extrusion)
+- Front rail (flipped belts, **toothed side facing the X extrusion = limited toolhead compatibility**)
 
 ![2](Images/Monolith.png)
 
@@ -56,13 +58,12 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 **AWD:** It doesn't come at the cost of adding 20cm extra belt length and more idlers, so input shaper scaling should be close to +100% vs 2WD due to the truly halved effective belt length. IF there are no rigidity bottlekecks elsewhere, which is rarely the case.
 
 ## What's the catch?
+- **There's limited toolhead support currently because of the flipped belt path.** Voron-compatible toolheads that have loop-around belt clips will work, but you WILL lose the ability to tuck away the excess belt.
 - You have to space out the front (AWD only) and rear panels on your printer by at least 5mm ([Monolith Panels](https://github.com/CloakedWayne/Monolith_Panels)) or have a 4040 frame.
 - The tensioner range is less than half compared to stock. Monolith is not recommended for larger than 350mm build volume.
-- There's limited toolhead support currently (Voron compatible toolheads that have loop around belt clips will work).
 - Z chain relocation/delete on V2
 - Trident rear vertical extrusion brackets have to be rotated by 180 degrees
-
-## DISCLAIMER: This is a challenging mod without a step by step build guide or documentation.
+## DISCLAIMER: This is a challenging build without a step by step build guide or documentation.
 
 ## Printed parts guide
 - Recommended print settings: 4 walls, 40% infill (or more), 0.2mm layer height, 0.4mm nozzle
