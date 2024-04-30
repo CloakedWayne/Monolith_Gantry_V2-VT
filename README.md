@@ -25,25 +25,11 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 
 ## 2024 Roadmap
 ### Planned improvements for R1:
-- laser-cut, printed, and milled versions
+- printed and metal versions
 - toothed idler delete (drive pulleys with live shafts last longer and they're easier to source with 16mm OD)
 - significant effective tensioner range increase (50% or more)
 - optional zero protrusion mode (no extra panel spacing, but similar build volume loss to other AWDs) without changing the gantry parts
 
-### Laser-cut version:
-- public CAD/DXFs
-- no printed load bearing parts
-- cost effective, but requires post processsing, so it's a pretty labor-intensive build
-- more complicated BOM compared to the printed
-
-### Milled version:
-- kits with US and EU availability
-- no printed load bearing parts
-- contains everything except the motors
-- 6mm to 9mm switch will only require an upgrade kit
-- accent colors
-- easier to build
-  
 ## Design goals
 - The shortest and the simplest belt path possible without losing full bed capability even with AWD (toolhead dependant)
 - AWD without increasing belt length and idler count
