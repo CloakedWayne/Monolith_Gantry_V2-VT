@@ -1,6 +1,9 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # Monolith Gantry
+> [!WARNING]
+> **This is a challenging build without a step by step build guide or documentation.**
+
 ![1](Images/V2_9mm_front_rail.png)
 
 *If you have questions or wanna stay more up to date with Monolith, consider joining the dedicated Discord server.*
@@ -49,7 +52,6 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - The tensioner range is less than half compared to stock. Monolith is not recommended for larger than 350mm build volume.
 - Z chain relocation/delete on V2
 - Trident rear vertical extrusion brackets have to be rotated by 180 degrees
-## DISCLAIMER: This is a challenging build without a step by step build guide or documentation.
 
 ## Printed parts guide
 - Recommended print settings: 4 walls, 40% infill (or more), 0.2mm layer height, 0.4mm nozzle
