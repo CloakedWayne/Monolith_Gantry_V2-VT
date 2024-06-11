@@ -1,14 +1,10 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 # Monolith Gantry
-> [!WARNING]
+> [!IMPORTANT]
 > **This is a challenging build without a step by step build guide or documentation.**
 
 ![1](Images/V2_9mm_front_rail.png)
-
-*If you have questions or wanna stay more up to date with Monolith, consider joining the dedicated Discord server.*
-
-[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
 
 ## What's this?
 This is a performance-oriented, configurable gantry platform for Voron 2.4 and Trident.
@@ -25,7 +21,14 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Front rail (flipped belts, **toothed side facing the X extrusion = limited toolhead compatibility**)
 
 ![2](Images/Monolith.png)
-
+> [!NOTE]
+> **If you have questions or want to stay more up to date with Monolith, consider joining the dedicated Discord server.**
+>
+> [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+>
+> **If you would like to see more of this and other projects in the future, consider supporting me on Ko-fi.**
+>
+> [![Join the Discord](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/blob/main/Images/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
 ## 2024 Roadmap
 ### Planned improvements for R1:
 - printed and metal versions
