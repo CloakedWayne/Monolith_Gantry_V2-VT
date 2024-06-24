@@ -56,6 +56,15 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 - Z chain relocation/delete on V2
 - Trident rear vertical extrusion brackets have to be rotated by 180 degrees
 
+## Acknowledgement
+I want to thank:
+
+- [ifp](https://github.com/GurgenCD), [iniqy](https://github.com/iniqy), [krankydonkey](https://github.com/krankydonkey), MoneyShot, [Nicket](https://github.com/RCI-Nicket), tktktktk, and [The Adeo](https://github.com/TheAdeo) for early testing and good feedback
+- [Sy-Noon](https://github.com/Sy-Noon) for the awesome logo and feedback on general aesthetics
+- [Armchair Heavy Industries](https://github.com/Armchair-Heavy-Industries) for the exposure and the moderation help I got in their user-project space
+- [VoronDesign](https://github.com/VoronDesign) for making V2.4 and Trident and for starting me on this journey to improve my FDM design skills
+- everyone who helped me along the way
+
 <br/><br/><br/><br/>
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
