@@ -1,5 +1,5 @@
 ## Changelog
-### April 2024 (minor QOL update)
+### v604 - April 2024 (minor QOL update)
 - backwards comppatible
 - less confusing **showroom style CAD** to aid assembly and help with integration
 - **top rail versions are now phased out**, removed the mirrored CD parts (simplified BOM)
