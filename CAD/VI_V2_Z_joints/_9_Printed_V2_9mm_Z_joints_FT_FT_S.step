@@ -12,7 +12,7 @@ cturing Information (PMI)---4.0---2014-10-13'),
 
 FILE_NAME(
 /* name */ '_9_Printed_V2_9mm_Z_joints_FT_FT_S.step',
-/* time_stamp */ '2024-12-14T20:56:06+01:00',
+/* time_stamp */ '2025-01-28T17:07:01+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -470,18 +470,18 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 #202=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_joint_b:1',
 'Printed_V2_Z_joint_b:1','Printed_V2_Z_joint_b:1',#46289,#46294,
 'Printed_V2_Z_joint_b:1');
-#203=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:1',
-'Printerd_V2_Z_belt_clamp:1','Printerd_V2_Z_belt_clamp:1',#46280,#46281,
-'Printerd_V2_Z_belt_clamp:1');
-#204=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:2',
-'Printerd_V2_Z_belt_clamp:2','Printerd_V2_Z_belt_clamp:2',#46280,#46281,
-'Printerd_V2_Z_belt_clamp:2');
-#205=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:3',
-'Printerd_V2_Z_belt_clamp:3','Printerd_V2_Z_belt_clamp:3',#46280,#46281,
-'Printerd_V2_Z_belt_clamp:3');
-#206=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:4',
-'Printerd_V2_Z_belt_clamp:4','Printerd_V2_Z_belt_clamp:4',#46280,#46281,
-'Printerd_V2_Z_belt_clamp:4');
+#203=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:1',
+'Printed_V2_Z_belt_clamp:1','Printed_V2_Z_belt_clamp:1',#46280,#46281,
+'Printed_V2_Z_belt_clamp:1');
+#204=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:2',
+'Printed_V2_Z_belt_clamp:2','Printed_V2_Z_belt_clamp:2',#46280,#46281,
+'Printed_V2_Z_belt_clamp:2');
+#205=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:3',
+'Printed_V2_Z_belt_clamp:3','Printed_V2_Z_belt_clamp:3',#46280,#46281,
+'Printed_V2_Z_belt_clamp:3');
+#206=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:4',
+'Printed_V2_Z_belt_clamp:4','Printed_V2_Z_belt_clamp:4',#46280,#46281,
+'Printed_V2_Z_belt_clamp:4');
 #207=NEXT_ASSEMBLY_USAGE_OCCURRENCE('_Printed_V2_Z_joint_b_FT:1',
 '_Printed_V2_Z_joint_b_FT:1','_Printed_V2_Z_joint_b_FT:1',#46280,#46282,
 '_Printed_V2_Z_joint_b_FT:1');
@@ -31884,7 +31884,7 @@ POSITIVE_RATIO_MEASURE(7850.),#23761);
 #28555=DIRECTION('ref_axis',(0.,1.,0.));
 #28556=DIRECTION('center_axis',(-0.0281425988608443,0.999603913608461,0.000100139927597385));
 #28557=DIRECTION('ref_axis',(0.999495064427474,0.0281380556686565,0.014760284831498));
-#28558=DIRECTION('center_axis',(-0.670611085875689,-0.741809115482522,8.76793399638991E-5));
+#28558=DIRECTION('center_axis',(-0.670611085875689,-0.741809115482522,8.7679339963899E-5));
 #28559=DIRECTION('ref_axis',(0.741710590534583,-0.670520081487687,0.0163774299139406));
 #28560=DIRECTION('center_axis',(0.,-4.75158170683057E-49,-1.));
 #28561=DIRECTION('ref_axis',(0.,1.,-4.75158170683057E-49));
@@ -32182,7 +32182,7 @@ POSITIVE_RATIO_MEASURE(7850.),#23761);
 #28851=DIRECTION('ref_axis',(0.,1.,0.));
 #28852=DIRECTION('center_axis',(-0.205987882710072,-0.978554537135573,0.000100139927645283));
 #28853=DIRECTION('ref_axis',(0.978447634879091,-0.205966890036863,-0.0147602848229865));
-#28854=DIRECTION('center_axis',(0.825253947066197,0.564761821623945,8.7679339915414E-5));
+#28854=DIRECTION('center_axis',(0.825253947066196,0.564761821623945,8.7679339915414E-5));
 #28855=DIRECTION('ref_axis',(0.564687263481113,-0.825142456945075,-0.0163774298611683));
 #28856=DIRECTION('center_axis',(0.,-4.75158170683057E-49,-1.));
 #28857=DIRECTION('ref_axis',(0.,1.,-4.75158170683057E-49));
@@ -53822,8 +53822,8 @@ SOLID_ANGLE_UNIT()
 #46279=PRODUCT_DEFINITION_CONTEXT('part definition',#46329,'design');
 #46280=PRODUCT_DEFINITION('_9_Printed_V2_9mm_Z_joints_FT_FT_S',
 '_9_Printed_V2_9mm_Z_joints_FT_FT_S',#46296,#46279);
-#46281=PRODUCT_DEFINITION('Printerd_V2_Z_belt_clamp',
-'Printerd_V2_Z_belt_clamp',#46297,#46279);
+#46281=PRODUCT_DEFINITION('Printed_V2_Z_belt_clamp',
+'Printed_V2_Z_belt_clamp',#46297,#46279);
 #46282=PRODUCT_DEFINITION('_Printed_V2_Z_joint_b_FT',
 '_Printed_V2_Z_joint_b_FT',#46298,#46279);
 #46283=PRODUCT_DEFINITION('_Printed_V2_Z_joint_hardware_FT',
@@ -53867,8 +53867,8 @@ SOLID_ANGLE_UNIT()
 #46312=PRODUCT_RELATED_PRODUCT_CATEGORY(
 '_9_Printed_V2_9mm_Z_joints_FT_FT_S',
 '_9_Printed_V2_9mm_Z_joints_FT_FT_S',(#46331));
-#46313=PRODUCT_RELATED_PRODUCT_CATEGORY('Printerd_V2_Z_belt_clamp',
-'Printerd_V2_Z_belt_clamp',(#46332));
+#46313=PRODUCT_RELATED_PRODUCT_CATEGORY('Printed_V2_Z_belt_clamp',
+'Printed_V2_Z_belt_clamp',(#46332));
 #46314=PRODUCT_RELATED_PRODUCT_CATEGORY('_Printed_V2_Z_joint_b_FT',
 '_Printed_V2_Z_joint_b_FT',(#46333));
 #46315=PRODUCT_RELATED_PRODUCT_CATEGORY(
@@ -53899,8 +53899,7 @@ SOLID_ANGLE_UNIT()
 #46330=PRODUCT_CONTEXT('part definition',#46329,'mechanical');
 #46331=PRODUCT('_9_Printed_V2_9mm_Z_joints_FT_FT_S',
 '_9_Printed_V2_9mm_Z_joints_FT_FT_S',$,(#46330));
-#46332=PRODUCT('Printerd_V2_Z_belt_clamp','Printerd_V2_Z_belt_clamp',$,
-(#46330));
+#46332=PRODUCT('Printed_V2_Z_belt_clamp','Printed_V2_Z_belt_clamp',$,(#46330));
 #46333=PRODUCT('_Printed_V2_Z_joint_b_FT','_Printed_V2_Z_joint_b_FT',$,
 (#46330));
 #46334=PRODUCT('_Printed_V2_Z_joint_hardware_FT',

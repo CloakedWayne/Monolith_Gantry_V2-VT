@@ -12,7 +12,7 @@ cturing Information (PMI)---4.0---2014-10-13'),
 
 FILE_NAME(
 /* name */ '_2_Printed_VT_6mm_front_motorless_mounts_FT.step',
-/* time_stamp */ '2024-12-14T18:30:33+01:00',
+/* time_stamp */ '2025-01-28T16:49:50+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -473,8 +473,8 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 'D5x30 smooth pin:2');
 #202=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Shim 0.5mm:3','Shim 0.5mm:3',
 'Shim 0.5mm:3',#26620,#26629,'Shim 0.5mm:3');
-#203=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spring:1',
-'Printed_spring:1','Printed_spring:1',#26620,#26630,'Printed_spring:1');
+#203=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spacer:1',
+'Printed_spacer:1','Printed_spacer:1',#26620,#26630,'Printed_spacer:1');
 #204=NEXT_ASSEMBLY_USAGE_OCCURRENCE('F695 flanged bearing:3',
 'F695 flanged bearing:3','F695 flanged bearing:3',#26620,#26631,
 'F695 flanged bearing:3');
@@ -504,8 +504,8 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 'D5x30 smooth pin:2');
 #214=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Shim 0.5mm:3','Shim 0.5mm:3',
 'Shim 0.5mm:3',#26625,#26629,'Shim 0.5mm:3');
-#215=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spring:1',
-'Printed_spring:1','Printed_spring:1',#26625,#26630,'Printed_spring:1');
+#215=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spacer:1',
+'Printed_spacer:1','Printed_spacer:1',#26625,#26630,'Printed_spacer:1');
 #216=NEXT_ASSEMBLY_USAGE_OCCURRENCE('F695 flanged bearing:3',
 'F695 flanged bearing:3','F695 flanged bearing:3',#26625,#26631,
 'F695 flanged bearing:3');
@@ -30895,7 +30895,7 @@ SOLID_ANGLE_UNIT()
 #26628=PRODUCT_DEFINITION('D5x30 smooth pin','D5x30 smooth pin',#26649,
 #26617);
 #26629=PRODUCT_DEFINITION('Shim 0.5mm','Shim 0.5mm',#26650,#26617);
-#26630=PRODUCT_DEFINITION('Printed_spring','Printed_spring',#26651,#26617);
+#26630=PRODUCT_DEFINITION('Printed_spacer','Printed_spacer',#26651,#26617);
 #26631=PRODUCT_DEFINITION('F695 flanged bearing','F695 flanged bearing',
 #26652,#26617);
 #26632=PRODUCT_DEFINITION(
@@ -30960,8 +30960,8 @@ SOLID_ANGLE_UNIT()
 #26670=PRODUCT_RELATED_PRODUCT_CATEGORY('D5x30 smooth pin',
 'D5x30 smooth pin',(#26694));
 #26671=PRODUCT_RELATED_PRODUCT_CATEGORY('Shim 0.5mm','Shim 0.5mm',(#26695));
-#26672=PRODUCT_RELATED_PRODUCT_CATEGORY('Printed_spring',
-'Printed_spring',(#26696));
+#26672=PRODUCT_RELATED_PRODUCT_CATEGORY('Printed_spacer',
+'Printed_spacer',(#26696));
 #26673=PRODUCT_RELATED_PRODUCT_CATEGORY('F695 flanged bearing',
 'F695 flanged bearing',(#26697));
 #26674=PRODUCT_RELATED_PRODUCT_CATEGORY(
@@ -30999,7 +30999,7 @@ SOLID_ANGLE_UNIT()
 #26693=PRODUCT('Shim 1mm','Shim 1mm',$,(#26683));
 #26694=PRODUCT('D5x30 smooth pin','D5x30 smooth pin',$,(#26683));
 #26695=PRODUCT('Shim 0.5mm','Shim 0.5mm',$,(#26683));
-#26696=PRODUCT('Printed_spring','Printed_spring',$,(#26683));
+#26696=PRODUCT('Printed_spacer','Printed_spacer',$,(#26683));
 #26697=PRODUCT('F695 flanged bearing','F695 flanged bearing',$,(#26683));
 #26698=PRODUCT('_Printed_VT_6mm_front_motorless_mount_hardware_1',
 '_Printed_VT_6mm_front_motorless_mount_hardware',$,(#26683));

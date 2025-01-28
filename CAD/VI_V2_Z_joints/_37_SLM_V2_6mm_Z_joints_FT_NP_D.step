@@ -11,8 +11,8 @@ cturing Information (PMI)---4.0---2014-10-13'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ '_37_SLM_V2_6mm_Z joints_FT_NP_D.step',
-/* time_stamp */ '2024-12-14T21:05:27+01:00',
+/* name */ '_37_SLM_V2_6mm_Z_joints_FT_NP_D.step',
+/* time_stamp */ '2025-01-28T17:09:55+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -22089,8 +22089,8 @@ SOLID_ANGLE_UNIT()
 #19963=SHAPE_REPRESENTATION('',(#11455),#19790);
 #19964=SHAPE_REPRESENTATION('',(#11485),#19791);
 #19965=PRODUCT_DEFINITION_CONTEXT('part definition',#20039,'design');
-#19966=PRODUCT_DEFINITION('_37_SLM_V2_6mm_Z joints_FT_NP_D',
-'_37_SLM_V2_6mm_Z joints_FT_NP_D',#19990,#19965);
+#19966=PRODUCT_DEFINITION('_37_SLM_V2_6mm_Z_joints_FT_NP_D',
+'_37_SLM_V2_6mm_Z_joints_FT_NP_D',#19990,#19965);
 #19967=PRODUCT_DEFINITION('_SLM_V2_6mm_Z_joint_FT',
 '_SLM_V2_6mm_Z_joint_FT',#19991,#19965);
 #19968=PRODUCT_DEFINITION('_SLM_V2_6mm_Z_joint_hardware_FT',
@@ -22155,7 +22155,7 @@ SOLID_ANGLE_UNIT()
 #20012=PRODUCT_DEFINITION_FORMATION('',$,#20063);
 #20013=PRODUCT_DEFINITION_FORMATION('',$,#20064);
 #20014=PRODUCT_RELATED_PRODUCT_CATEGORY(
-'_37_SLM_V2_6mm_Z joints_FT_NP_D','_37_SLM_V2_6mm_Z joints_FT_NP_D',(#20041));
+'_37_SLM_V2_6mm_Z_joints_FT_NP_D','_37_SLM_V2_6mm_Z_joints_FT_NP_D',(#20041));
 #20015=PRODUCT_RELATED_PRODUCT_CATEGORY('_SLM_V2_6mm_Z_joint_FT',
 '_SLM_V2_6mm_Z_joint_FT',(#20042));
 #20016=PRODUCT_RELATED_PRODUCT_CATEGORY(
@@ -22201,8 +22201,8 @@ SOLID_ANGLE_UNIT()
 'ap242_managed_model_based_3d_engineering',2011,#20039);
 #20039=APPLICATION_CONTEXT('Managed model based 3d engineering');
 #20040=PRODUCT_CONTEXT('part definition',#20039,'mechanical');
-#20041=PRODUCT('_37_SLM_V2_6mm_Z joints_FT_NP_D',
-'_37_SLM_V2_6mm_Z joints_FT_NP_D',$,(#20040));
+#20041=PRODUCT('_37_SLM_V2_6mm_Z_joints_FT_NP_D',
+'_37_SLM_V2_6mm_Z_joints_FT_NP_D',$,(#20040));
 #20042=PRODUCT('_SLM_V2_6mm_Z_joint_FT','_SLM_V2_6mm_Z_joint_FT',$,(#20040));
 #20043=PRODUCT('_SLM_V2_6mm_Z_joint_hardware_FT',
 '_SLM_V2_6mm_Z_joint_hardware_FT',$,(#20040));

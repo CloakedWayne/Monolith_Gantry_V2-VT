@@ -12,7 +12,7 @@ cturing Information (PMI)---4.0---2014-10-13'),
 
 FILE_NAME(
 /* name */ '_1_Printed_V2_6mm_Z_joints_FT_FT_S.step',
-/* time_stamp */ '2024-12-14T20:52:52+01:00',
+/* time_stamp */ '2025-01-28T17:06:20+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -526,30 +526,30 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 'M5x16 BHCS:7',#46316,#46330,'M5x16 BHCS:7');
 #226=NEXT_ASSEMBLY_USAGE_OCCURRENCE('M5x16 BHCS:8','M5x16 BHCS:8',
 'M5x16 BHCS:8',#46316,#46330,'M5x16 BHCS:8');
-#227=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:2',
-'Printerd_V2_Z_belt_clamp:2','Printerd_V2_Z_belt_clamp:2',#46316,#46331,
-'Printerd_V2_Z_belt_clamp:2');
-#228=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:1',
-'Printerd_V2_Z_belt_clamp:1','Printerd_V2_Z_belt_clamp:1',#46316,#46331,
-'Printerd_V2_Z_belt_clamp:1');
-#229=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:5',
-'Printerd_V2_Z_belt_clamp:5','Printerd_V2_Z_belt_clamp:5',#46316,#46331,
-'Printerd_V2_Z_belt_clamp:5');
-#230=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:6',
-'Printerd_V2_Z_belt_clamp:6','Printerd_V2_Z_belt_clamp:6',#46316,#46331,
-'Printerd_V2_Z_belt_clamp:6');
-#231=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:7',
-'Printerd_V2_Z_belt_clamp:7','Printerd_V2_Z_belt_clamp:7',#46316,#46331,
-'Printerd_V2_Z_belt_clamp:7');
-#232=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:8',
-'Printerd_V2_Z_belt_clamp:8','Printerd_V2_Z_belt_clamp:8',#46316,#46331,
-'Printerd_V2_Z_belt_clamp:8');
-#233=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:3',
-'Printerd_V2_Z_belt_clamp:3','Printerd_V2_Z_belt_clamp:3',#46316,#46331,
-'Printerd_V2_Z_belt_clamp:3');
-#234=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printerd_V2_Z_belt_clamp:4',
-'Printerd_V2_Z_belt_clamp:4','Printerd_V2_Z_belt_clamp:4',#46316,#46331,
-'Printerd_V2_Z_belt_clamp:4');
+#227=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:2',
+'Printed_V2_Z_belt_clamp:2','Printed_V2_Z_belt_clamp:2',#46316,#46331,
+'Printed_V2_Z_belt_clamp:2');
+#228=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:1',
+'Printed_V2_Z_belt_clamp:1','Printed_V2_Z_belt_clamp:1',#46316,#46331,
+'Printed_V2_Z_belt_clamp:1');
+#229=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:5',
+'Printed_V2_Z_belt_clamp:5','Printed_V2_Z_belt_clamp:5',#46316,#46331,
+'Printed_V2_Z_belt_clamp:5');
+#230=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:6',
+'Printed_V2_Z_belt_clamp:6','Printed_V2_Z_belt_clamp:6',#46316,#46331,
+'Printed_V2_Z_belt_clamp:6');
+#231=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:7',
+'Printed_V2_Z_belt_clamp:7','Printed_V2_Z_belt_clamp:7',#46316,#46331,
+'Printed_V2_Z_belt_clamp:7');
+#232=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:8',
+'Printed_V2_Z_belt_clamp:8','Printed_V2_Z_belt_clamp:8',#46316,#46331,
+'Printed_V2_Z_belt_clamp:8');
+#233=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:3',
+'Printed_V2_Z_belt_clamp:3','Printed_V2_Z_belt_clamp:3',#46316,#46331,
+'Printed_V2_Z_belt_clamp:3');
+#234=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_V2_Z_belt_clamp:4',
+'Printed_V2_Z_belt_clamp:4','Printed_V2_Z_belt_clamp:4',#46316,#46331,
+'Printed_V2_Z_belt_clamp:4');
 #235=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#46306,#242);
 #236=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#46309,#243);
 #237=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#46310,#244);
@@ -31319,7 +31319,7 @@ POSITIVE_RATIO_MEASURE(7850.),#23777);
 #28088=DIRECTION('ref_axis',(0.,1.,0.));
 #28089=DIRECTION('center_axis',(-0.0281425988608443,0.999603913608461,0.000100139927597385));
 #28090=DIRECTION('ref_axis',(0.999495064427474,0.0281380556686565,0.014760284831498));
-#28091=DIRECTION('center_axis',(-0.670611085875689,-0.741809115482522,8.76793399638991E-5));
+#28091=DIRECTION('center_axis',(-0.670611085875689,-0.741809115482522,8.7679339963899E-5));
 #28092=DIRECTION('ref_axis',(0.741710590534583,-0.670520081487687,0.0163774299139406));
 #28093=DIRECTION('center_axis',(0.,-4.75158170683057E-49,-1.));
 #28094=DIRECTION('ref_axis',(0.,1.,-4.75158170683057E-49));
@@ -31617,7 +31617,7 @@ POSITIVE_RATIO_MEASURE(7850.),#23777);
 #28384=DIRECTION('ref_axis',(0.,1.,0.));
 #28385=DIRECTION('center_axis',(-0.205987882710072,-0.978554537135573,0.000100139927645283));
 #28386=DIRECTION('ref_axis',(0.978447634879091,-0.205966890036863,-0.0147602848229865));
-#28387=DIRECTION('center_axis',(0.825253947066197,0.564761821623945,8.7679339915414E-5));
+#28387=DIRECTION('center_axis',(0.825253947066196,0.564761821623945,8.7679339915414E-5));
 #28388=DIRECTION('ref_axis',(0.564687263481113,-0.825142456945075,-0.0163774298611683));
 #28389=DIRECTION('center_axis',(0.,-4.75158170683057E-49,-1.));
 #28390=DIRECTION('ref_axis',(0.,1.,-4.75158170683057E-49));
@@ -53905,8 +53905,8 @@ SOLID_ANGLE_UNIT()
 #46329=PRODUCT_DEFINITION('Printed_V2_Z_joint_b','Printed_V2_Z_joint_b',
 #46345,#46315);
 #46330=PRODUCT_DEFINITION('M5x16 BHCS','M5x16 BHCS',#46346,#46315);
-#46331=PRODUCT_DEFINITION('Printerd_V2_Z_belt_clamp',
-'Printerd_V2_Z_belt_clamp',#46347,#46315);
+#46331=PRODUCT_DEFINITION('Printed_V2_Z_belt_clamp',
+'Printed_V2_Z_belt_clamp',#46347,#46315);
 #46332=PRODUCT_DEFINITION_FORMATION('',$,#46367);
 #46333=PRODUCT_DEFINITION_FORMATION('',$,#46368);
 #46334=PRODUCT_DEFINITION_FORMATION('',$,#46369);
@@ -53950,8 +53950,8 @@ SOLID_ANGLE_UNIT()
 #46361=PRODUCT_RELATED_PRODUCT_CATEGORY('Printed_V2_Z_joint_b',
 'Printed_V2_Z_joint_b',(#46380));
 #46362=PRODUCT_RELATED_PRODUCT_CATEGORY('M5x16 BHCS','M5x16 BHCS',(#46381));
-#46363=PRODUCT_RELATED_PRODUCT_CATEGORY('Printerd_V2_Z_belt_clamp',
-'Printerd_V2_Z_belt_clamp',(#46382));
+#46363=PRODUCT_RELATED_PRODUCT_CATEGORY('Printed_V2_Z_belt_clamp',
+'Printed_V2_Z_belt_clamp',(#46382));
 #46364=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'ap242_managed_model_based_3d_engineering',2011,#46365);
 #46365=APPLICATION_CONTEXT('Managed model based 3d engineering');
@@ -53980,8 +53980,7 @@ $,(#46366));
 #46379=PRODUCT('_MGN9H','_MGN9H',$,(#46366));
 #46380=PRODUCT('Printed_V2_Z_joint_b','Printed_V2_Z_joint_b',$,(#46366));
 #46381=PRODUCT('M5x16 BHCS','M5x16 BHCS',$,(#46366));
-#46382=PRODUCT('Printerd_V2_Z_belt_clamp','Printerd_V2_Z_belt_clamp',$,
-(#46366));
+#46382=PRODUCT('Printed_V2_Z_belt_clamp','Printed_V2_Z_belt_clamp',$,(#46366));
 #46383=PRESENTATION_STYLE_ASSIGNMENT((#46388));
 #46384=PRESENTATION_STYLE_ASSIGNMENT((#46389));
 #46385=PRESENTATION_STYLE_ASSIGNMENT((#46390));

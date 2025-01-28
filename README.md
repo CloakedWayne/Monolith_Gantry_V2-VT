@@ -1,6 +1,6 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-# Monolith Gantry R1 Release Candidate 1
+# Monolith Gantry R1 Release Candidate 2
 > [!IMPORTANT]
 > **There is no step-by-step build guide or detailed documentation yet.**
 > 

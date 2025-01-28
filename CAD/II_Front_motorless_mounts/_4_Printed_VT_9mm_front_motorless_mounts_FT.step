@@ -12,7 +12,7 @@ cturing Information (PMI)---4.0---2014-10-13'),
 
 FILE_NAME(
 /* name */ '_4_Printed_VT_9mm_front_motorless_mounts_FT.step',
-/* time_stamp */ '2024-12-14T18:34:02+01:00',
+/* time_stamp */ '2025-01-28T16:50:03+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -562,10 +562,10 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 'Shim 0.5mm:2',#26918,#26928,'Shim 0.5mm:2');
 #240=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Shim 0.5mm:3','Shim 0.5mm:3',
 'Shim 0.5mm:3',#26918,#26928,'Shim 0.5mm:3');
-#241=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spring:1',
-'Printed_spring:1','Printed_spring:1',#26918,#26925,'Printed_spring:1');
-#242=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spring:2',
-'Printed_spring:2','Printed_spring:2',#26918,#26925,'Printed_spring:2');
+#241=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spacer:1',
+'Printed_spacer:1','Printed_spacer:1',#26918,#26925,'Printed_spacer:1');
+#242=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spacer:2',
+'Printed_spacer:2','Printed_spacer:2',#26918,#26925,'Printed_spacer:2');
 #243=NEXT_ASSEMBLY_USAGE_OCCURRENCE('F695 flanged bearing:3',
 'F695 flanged bearing:3','F695 flanged bearing:3',#26918,#26927,
 'F695 flanged bearing:3');
@@ -599,10 +599,10 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 'Shim 0.5mm:2',#26923,#26928,'Shim 0.5mm:2');
 #255=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Shim 0.5mm:3','Shim 0.5mm:3',
 'Shim 0.5mm:3',#26923,#26928,'Shim 0.5mm:3');
-#256=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spring:1',
-'Printed_spring:1','Printed_spring:1',#26923,#26925,'Printed_spring:1');
-#257=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spring:2',
-'Printed_spring:2','Printed_spring:2',#26923,#26925,'Printed_spring:2');
+#256=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spacer:1',
+'Printed_spacer:1','Printed_spacer:1',#26923,#26925,'Printed_spacer:1');
+#257=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Printed_spacer:2',
+'Printed_spacer:2','Printed_spacer:2',#26923,#26925,'Printed_spacer:2');
 #258=NEXT_ASSEMBLY_USAGE_OCCURRENCE('F695 flanged bearing:3',
 'F695 flanged bearing:3','F695 flanged bearing:3',#26923,#26927,
 'F695 flanged bearing:3');
@@ -31187,7 +31187,7 @@ SOLID_ANGLE_UNIT()
 '_Printed_9mm_front_motorless_mount_motion',#26943,#26915);
 #26924=PRODUCT_DEFINITION('GT2 20T 9mm pulley','GT2 20T 9mm pulley',#26944,
 #26915);
-#26925=PRODUCT_DEFINITION('Printed_spring','Printed_spring',#26945,#26915);
+#26925=PRODUCT_DEFINITION('Printed_spacer','Printed_spacer',#26945,#26915);
 #26926=PRODUCT_DEFINITION('695 bearing','695 bearing',#26946,#26915);
 #26927=PRODUCT_DEFINITION('F695 flanged bearing','F695 flanged bearing',
 #26947,#26915);
@@ -31250,8 +31250,8 @@ SOLID_ANGLE_UNIT()
 '_Printed_9mm_front_motorless_mount_motion',(#26986));
 #26964=PRODUCT_RELATED_PRODUCT_CATEGORY('GT2 20T 9mm pulley',
 'GT2 20T 9mm pulley',(#26987));
-#26965=PRODUCT_RELATED_PRODUCT_CATEGORY('Printed_spring',
-'Printed_spring',(#26988));
+#26965=PRODUCT_RELATED_PRODUCT_CATEGORY('Printed_spacer',
+'Printed_spacer',(#26988));
 #26966=PRODUCT_RELATED_PRODUCT_CATEGORY('695 bearing','695 bearing',(#26989));
 #26967=PRODUCT_RELATED_PRODUCT_CATEGORY('F695 flanged bearing',
 'F695 flanged bearing',(#26990));
@@ -31289,7 +31289,7 @@ SOLID_ANGLE_UNIT()
 #26986=PRODUCT('_Printed_9mm_front_motorless_mount_motion_1',
 '_Printed_9mm_front_motorless_mount_motion',$,(#26978));
 #26987=PRODUCT('GT2 20T 9mm pulley','GT2 20T 9mm pulley',$,(#26978));
-#26988=PRODUCT('Printed_spring','Printed_spring',$,(#26978));
+#26988=PRODUCT('Printed_spacer','Printed_spacer',$,(#26978));
 #26989=PRODUCT('695 bearing','695 bearing',$,(#26978));
 #26990=PRODUCT('F695 flanged bearing','F695 flanged bearing',$,(#26978));
 #26991=PRODUCT('Shim 0.5mm','Shim 0.5mm',$,(#26978));
