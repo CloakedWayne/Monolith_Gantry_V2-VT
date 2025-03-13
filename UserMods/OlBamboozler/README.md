@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Thanks to hydrorubi for the original files. Any issues feel free to ping me on discord</p>
+<p align="left">Thanks to hydrorubi for the original Z-chain files. Any issues feel free to ping me on discord</p>
 
 ###
 
