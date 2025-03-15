@@ -72,8 +72,8 @@ This is a performance-oriented, configurable gantry platform for Voron 2.4 and T
 ## Acknowledgement
 I want to thank:
 
+- **[Sy-Noon](https://synoon.portfoliobox.net/)** for the awesome logo and feedback on general aesthetics
 - **ifp, iniqy, krankydonkey, MoneyShot, Nicket, tktktktk, Zakfarias, Scarecrow, The Adeo** for testing and good feedback
-- **Sy-Noon** for the awesome logo and feedback on general aesthetics
 - **ZaMarin** for FAQ
 - **Armchair Heavy Industries** for the exposure and the moderation help I got in their user-project space
 - **VoronDesign** for making V2.4 and Trident and for starting me on this journey to improve my FDM design skills
