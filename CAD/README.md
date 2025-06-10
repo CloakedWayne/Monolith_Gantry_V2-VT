@@ -2,6 +2,11 @@
 
 ## Changelog
 
+### 10.06.2025
+
+- sheet metal tensioner wire delete
+- gantry-mounted X-endstop option
+
 ### 28.01.2025
 
 - fixed subassembly origins
