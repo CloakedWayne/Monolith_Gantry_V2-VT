@@ -2,6 +2,13 @@
 
 ## Changelog
 
+### 15.06.2025
+
+- 695 W5 bearing support
+- minor visual changes
+- S45R long-shafted steppers in CAD
+- subassembly fixes
+
 ### 10.06.2025
 
 - sheet metal tensioner wire delete

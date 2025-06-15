@@ -5,22 +5,19 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ ('',
-'CAx-IF Rec.Pracs.---Representation and Presentation of Product Manufa
-cturing Information (PMI)---4.0---2014-10-13'),
+/* description */ (''),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
 /* name */ '_3_Printed_V2_6mm_front_motor_mounts_FT_2.step',
-/* time_stamp */ '2025-01-28T16:52:15+01:00',
+/* time_stamp */ '2025-06-15T13:31:04+02:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20',
-/* originating_system */ 'Autodesk Translation Framework v13.20.0.188',
-
+/* preprocessor_version */ 'ST-DEVELOPER v20.1',
+/* originating_system */ 'Autodesk Translation Framework v14.10.0.0',
 /* authorisation */ '');
 
-FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 1 1 4 }'));
+FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
 ENDSEC;
 
 DATA;
@@ -54026,8 +54023,9 @@ SOLID_ANGLE_UNIT()
 'Printed_short_shaft_double_shear_housing',
 'Printed_short_shaft_double_shear_housing',(#49267));
 #49237=APPLICATION_PROTOCOL_DEFINITION('international standard',
-'ap242_managed_model_based_3d_engineering',2011,#49238);
-#49238=APPLICATION_CONTEXT('Managed model based 3d engineering');
+'automotive_design',2009,#49238);
+#49238=APPLICATION_CONTEXT(
+'Core Data for Automotive Mechanical Design Process');
 #49239=PRODUCT_CONTEXT('part definition',#49238,'mechanical');
 #49240=PRODUCT('_3_Printed_V2_6mm_front_motor_mounts_FT_2',
 '_3_Printed_V2_6mm_front_motor_mounts_FT_2',$,(#49239));
